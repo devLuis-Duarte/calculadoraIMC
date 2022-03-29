@@ -5,6 +5,7 @@ Aplicação console para cálculo do IMC.
 ## Funcionalidades 
 
 - Calcula e apresenta o IMC
+- Apresenta  a situação do indivíduo
 
 ## Tecnologias utilizadas
 
